@@ -1,5 +1,5 @@
 analy_d/
-analysis-待改/
+analysis-dg/
 analysis_tong/
 c_analysis/
 comparative_analysis/
@@ -10,17 +10,14 @@ wham_noise/
 wham_scripts/
 whamr_scripts/
 wsj0/
-分段音频/
-整条音频/
-新建文件夹/
-待标注数据145通电话数据.zip
+other/
 *.png
 *.docx
 *.py
 *.rar
 
-Libri2Mix/
-WHAM-dataset/
-WHAMR-dataset/
-wsj0_mix/
+Libri2Mix/**/*.wav
+WHAM-dataset/**/*.wav
+WHAMR-dataset/**/*.wav
+wsj0_mix/**/*.wav
 
