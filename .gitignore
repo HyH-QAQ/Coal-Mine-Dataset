@@ -5,6 +5,7 @@ c_analysis/
 comparative_analysis/
 dataset_analysis/
 dataset_usage/
+pywsj0-mix/**/*.wav
 pywsj0-mix/
 wham_noise/
 wham_scripts/
@@ -16,8 +17,8 @@ other/
 *.py
 *.rar
 
-Libri2Mix/**/*.wav
-WHAM-dataset/**/*.wav
-WHAMR-dataset/**/*.wav
-wsj0_mix/**/*.wav
+Libri2Mix/
+WHAM-dataset/
+WHAMR-dataset/
+wsj0_mix/
 
