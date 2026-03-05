@@ -49,7 +49,7 @@ Maybe. When it’s all done. Maybe.
 > — A human trying to sync their soul to GitHub
 
 ---
-
+```mermaid
 graph TD
     %% 节点样式定义（学术风配色）
     classDef raw fill:#e1f5fe,stroke:#01579b,stroke-width:2px,rx:5px,ry:5px;
@@ -105,4 +105,4 @@ graph TD
     
     ExtractMix ==>|"组合"| FinalSynthesis
     ExtractS1S2 ==>|"组合"| FinalSynthesis
-
+```
